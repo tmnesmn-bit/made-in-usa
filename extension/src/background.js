@@ -1,5 +1,5 @@
 // Service worker: holds the index, refreshes it daily, forwards reports.
-const REMOTE_INDEX = 'https://YOURDOMAIN.example/index.json'; // set when the site is live
+const REMOTE_INDEX = 'https://tmnesmn-bit.github.io/made-in-usa/index.json';
 const REPORT_URL = ''; // set to a Google Form / Worker endpoint when ready
 
 async function loadBundled() {

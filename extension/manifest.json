@@ -5,6 +5,7 @@
   "description": "Shows whether a product is made in the USA and whether the shop is union, right on the product page. Sources included.",
   "permissions": ["storage", "alarms"],
   "host_permissions": [
+    "https://tmnesmn-bit.github.io/*",
     "https://www.amazon.com/*",
     "https://www.homedepot.com/*",
     "https://www.lowes.com/*",
