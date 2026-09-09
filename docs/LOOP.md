@@ -26,3 +26,11 @@ If reports land in `data/reports.jsonl` (one JSON object per line: `{ts, brand, 
 - Union status counts only when a union or the company says so. Aggregator lists alone = "reported", not "confirmed".
 - Plain English in every entry. No em dashes, no semicolons, no caps for emphasis.
 - Never pad. If it can't be sourced, it doesn't go in.
+
+## Plants and materials
+
+Every entry has a `made` block (schema in `docs/PHASE2-SPEC.md`). Each run, after the normal focus, the loop also:
+
+- Picks 10 entries whose `made.plants` still say `"derived": true` and finds a direct source for each plant (company page, union page, or press). Attach the source and remove `derived`. If no source can be found, leave it derived.
+- Picks 5 entries with an empty `made.materials` list and researches what the product is made from and where those materials come from. Steel, leather, rubber, fabric, electronics. Each material gets a `status`: `confirmed` only when the maker or a union says so with a source, `reported` for aggregator or press mentions, `unknown` otherwise. Empty stays empty rather than guessed.
+- Never writes a material origin without a source URL on the entry.

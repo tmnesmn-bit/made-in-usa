@@ -23,4 +23,9 @@ head='''<!DOCTYPE html>
 <body>
 '''
 open(__import__('pathlib').Path(__file__).resolve().parent.parent/'site'/'index.html','w').write(head+body+'\n</body>\n</html>\n')
-print(len(body)//1024,'KB artifact;',len(head+body)//1024,'KB standalone')
+# keep the copies the extension and the site serve in sync with data/index.json
+root=__import__('pathlib').Path(__file__).resolve().parent.parent
+raw=(root/'data'/'index.json').read_text(encoding='utf-8')
+(root/'site'/'index.json').write_text(raw,encoding='utf-8')
+(root/'extension'/'data'/'index.json').write_text(raw,encoding='utf-8')
+print(len(body)//1024,'KB artifact;',len(head+body)//1024,'KB standalone; index.json synced to site/ and extension/data/')

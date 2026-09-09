@@ -38,7 +38,44 @@ const MIUSA_SITES = {
   'www.ebay.com': { isProduct: () => /\/itm\//.test(location.pathname), title: () => text('h1'), brand: () => specRow(/^brand$/i), origin: () => specRow(/country\/region of manufacture/i), anchor: () => document.querySelector('.x-price-primary, h1') }
 };
 
+// Search result pages. Each entry: is this a search page, how to find the
+// result tiles, and where the title lives inside a tile. Brand is usually not
+// shown on tiles, so matching falls back to scanning the title.
+const MIUSA_RESULTS = {
+  'www.amazon.com': {
+    isSearch: () => location.pathname === '/s' || location.pathname.startsWith('/s/'),
+    tiles: () => document.querySelectorAll('div[data-component-type="s-search-result"]'),
+    title: t => tileText(t, 'h2'),
+    anchor: t => t.querySelector('h2')
+  },
+  'www.homedepot.com': {
+    isSearch: () => /\/s\/|\/b\//.test(location.pathname),
+    tiles: () => document.querySelectorAll('[data-testid="product-pod"], div[class*="product-pod"]'),
+    title: t => tileText(t, '[data-testid="product-header"], .product-pod__title, header'),
+    anchor: t => t.querySelector('[data-testid="product-header"], .product-pod__title, header')
+  },
+  'www.lowes.com': {
+    isSearch: () => /\/search|\/pl\//.test(location.pathname),
+    tiles: () => document.querySelectorAll('[data-selector="prd-card"], div[class*="tile"]'),
+    title: t => tileText(t, '.description-spn, [class*="description"], h3, a[href*="/pd/"]'),
+    anchor: t => t.querySelector('.description-spn, [class*="description"], h3, a[href*="/pd/"]')
+  },
+  'www.walmart.com': {
+    isSearch: () => /^\/search|^\/browse/.test(location.pathname),
+    tiles: () => document.querySelectorAll('div[data-item-id]'),
+    title: t => tileText(t, '[data-automation-id="product-title"]'),
+    anchor: t => t.querySelector('[data-automation-id="product-title"]')
+  },
+  'www.ebay.com': {
+    isSearch: () => location.pathname.startsWith('/sch/'),
+    tiles: () => document.querySelectorAll('li.s-item, li[class*="s-item"]'),
+    title: t => tileText(t, '.s-item__title'),
+    anchor: t => t.querySelector('.s-item__title')
+  }
+};
+
 function text(sel) { const el = document.querySelector(sel); return el ? el.textContent.replace(/\s+/g, ' ').trim() : ''; }
+function tileText(tile, sel) { const el = tile.querySelector(sel); return el ? el.textContent.replace(/\s+/g, ' ').trim() : ''; }
 
 // Finds a "label: value" spec row anywhere on the page. Works on most retail spec tables.
 function specRow(labelRe) {

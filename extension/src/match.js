@@ -41,4 +41,18 @@ function miusaMatch(lookup, brand, title) {
   return { ...candidates[0], origin: candidates[0].item.origin };
 }
 
-if (typeof module !== 'undefined') module.exports = { miusaNorm, miusaBuildLookup, miusaMatch };
+// Plain English lines about where a thing is made and what it is made from.
+// Pure so it can be tested in node and shared by product and search pages.
+function miusaOriginLines(it) {
+  const made = it.made || {};
+  const plants = (made.plants || []).map(p => p.place + (p.note ? ' (' + p.note + ')' : ''));
+  const materials = (made.materials || []).map(m => {
+    let line = m.material + ': ' + (m.origin || 'origin not known yet');
+    if (m.status === 'reported') line += ' (reported, not confirmed yet)';
+    else if (m.origin && m.status !== 'confirmed') line += ' (not confirmed)';
+    return line;
+  });
+  return { plants, materials };
+}
+
+if (typeof module !== 'undefined') module.exports = { miusaNorm, miusaBuildLookup, miusaMatch, miusaOriginLines };

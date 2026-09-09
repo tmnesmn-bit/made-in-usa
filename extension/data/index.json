@@ -44,7 +44,18 @@
      "wrench set"
     ]
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Meadville, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Snap-on Tools",
@@ -78,7 +89,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Milwaukee, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Klein Tools",
@@ -115,7 +137,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Mansfield, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Moran, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fort Smith, Arkansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Wright Tool",
@@ -146,7 +191,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Barberton, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Stanley (tape measures, New Britain CT)",
@@ -179,7 +235,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "New Britain, Connecticut",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "RIDGID (Ridge Tool Co.)",
@@ -210,7 +277,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Elyria, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Eklind Tool Co.",
@@ -240,7 +318,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Franklin Park, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Wilde Tool",
@@ -270,7 +359,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hiawatha, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Moody Tools",
@@ -299,7 +399,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Warwick, Rhode Island",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hardcore Hammers",
@@ -328,7 +439,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "SK Professional Tools (S-K Hand Tool)",
@@ -358,7 +473,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sycamore, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Stiletto Tools",
@@ -385,7 +511,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Park Tool",
@@ -414,7 +544,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "St. Paul, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Estwing",
@@ -444,7 +585,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Rockford, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Wheatland Tube (Zekelman Industries) - electrical conduit & pipe",
@@ -477,7 +629,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sharon, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Wheatland, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Warren, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Eaton B-Line (strut, cable tray, fasteners)",
@@ -506,7 +681,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Troy, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Prysmian / General Cable (Marshall, TX)",
@@ -537,7 +723,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Harrison County, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Okonite (Santa Maria, CA)",
@@ -571,7 +768,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Santa Maria, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Louisville Ladder",
@@ -601,7 +809,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Red Wing Shoes (Red Wing, MN plant)",
@@ -649,7 +868,18 @@
      "imported"
     ]
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Red Wing, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Thorogood (Weinbrenner Shoe Co.)",
@@ -682,7 +912,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Marshfield, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Carolina Shoe, Union Built (USA) line",
@@ -713,7 +954,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Martinsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Matterhorn (Carolina Group)",
@@ -743,7 +995,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Martinsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Corcoran (Carolina Group)",
@@ -772,7 +1035,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Martinsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Double-H Boots (Carolina Group)",
@@ -803,7 +1077,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Martinsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chippewa Boots (Carolina Group)",
@@ -833,7 +1118,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Martinsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Danner Boots (Portland, OR factory)",
@@ -865,7 +1161,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Northeast Portland, Oregon",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Carhartt, Made in USA / Union Made line (Kentucky plants)",
@@ -899,7 +1206,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hanson, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Wigwam Mills socks",
@@ -931,7 +1249,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sheboygan, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Union Line (National Safety Apparel, Chicago)",
@@ -962,7 +1291,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chicago, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "King Louie (now National Safety Apparel)",
@@ -993,7 +1333,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kansas City, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Bayside Apparel (AST Sportswear), Union Made line",
@@ -1025,7 +1376,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "American Roots",
@@ -1056,7 +1411,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Westbrook, Maine",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Unionwear",
@@ -1087,7 +1453,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Newark, New Jersey",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Fechheimer / Flying Cross (Grantsville, MD plant)",
@@ -1119,7 +1496,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Grantsville, Maryland",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Cincinnati, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Hodgenville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Elbeco (Reading, PA)",
@@ -1149,7 +1549,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Reading, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Stetson / Resistol hats (Hat-Co, Longview & Garland, TX)",
@@ -1179,7 +1590,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Garland, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Swany gloves (Gloversville, NY)",
@@ -1209,7 +1631,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Gloversville, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Keystone Uniform Cap (Philadelphia, PA)",
@@ -1238,7 +1671,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Cintas Uniforms, postal division (Fort Smith, AR)",
@@ -1267,7 +1704,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fort Smith, Arkansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Accent Uniforms (Eddystone, PA)",
@@ -1296,7 +1744,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Eddystone, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lifewear, Inc. (Pottstown, PA)",
@@ -1325,7 +1784,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Pottstown, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Schott NYC leather & wool jackets",
@@ -1355,7 +1825,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Sterlingwear of Boston pea coats",
@@ -1384,7 +1858,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "East Boston, Massachusetts",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "New England Shirt Company",
@@ -1413,7 +1898,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fall River, Massachusetts",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Union Made Apparel (custom printing)",
@@ -1440,7 +1936,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union House Apparel / UnionLabel.com",
@@ -1470,7 +1970,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hanson, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "All American Clothing Co., Union-Made collection",
@@ -1499,7 +2010,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "The Union Boot Pro / UnionMadeBoots.com",
@@ -1527,7 +2042,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Dearborn Denim & Apparel",
@@ -1555,7 +2074,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Sawicki & Son (Detroit), union printing",
@@ -1582,7 +2105,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Brooks Brothers (Garland, NC shirt factory)",
@@ -1614,7 +2141,18 @@
    },
    "alternatives": [
     "1698e4d2"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Garland, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford F-150 / F-150 Raptor / F-150 Lightning",
@@ -1648,7 +2186,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dearborn, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Claycomo, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford F-250/350/450/550 Super Duty",
@@ -1679,7 +2234,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Avon Lake, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford F-650 / F-750 and E-Series Cutaway",
@@ -1708,7 +2280,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Avon Lake, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Ranger / Ranger Raptor and Bronco / Bronco Raptor",
@@ -1737,7 +2320,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Wayne, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Explorer / Explorer Hybrid and Lincoln Aviator",
@@ -1766,7 +2360,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chicago, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Expedition and Lincoln Navigator",
@@ -1795,7 +2400,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Escape / Escape Hybrid and Lincoln Corsair / Corsair Hybrid",
@@ -1826,7 +2442,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Mustang / Mustang GT / Dark Horse",
@@ -1855,7 +2482,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Flat Rock, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ford Transit / E-Transit",
@@ -1885,7 +2523,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Claycomo, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Silverado 1500 / GMC Sierra 1500",
@@ -1920,7 +2569,18 @@
    },
    "alternatives": [
     "2bd1ae5a"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Roanoke, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Silverado HD / GMC Sierra HD (2500/3500)",
@@ -1954,7 +2614,18 @@
    },
    "alternatives": [
     "8197c1ed"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Flint, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Silverado EV / GMC Sierra EV / GMC Hummer EV (pickup & SUV) / Cadillac Escalade IQ & IQ L",
@@ -1983,7 +2654,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Detroit, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Silverado 4500HD/5500HD/6500HD (medium-duty)",
@@ -2012,7 +2694,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Springfield, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Colorado / GMC Canyon; Chevrolet Express / GMC Savana (incl. cutaways)",
@@ -2042,7 +2735,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Wentzville, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Tahoe / Suburban, GMC Yukon / Yukon XL, Cadillac Escalade / Escalade ESV",
@@ -2071,7 +2775,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Arlington, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Traverse, Buick Enclave, GMC Acadia",
@@ -2100,7 +2815,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lansing, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cadillac CT4 / CT4-V / CT5 / CT5-V (Blackwing)",
@@ -2129,7 +2855,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lansing, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cadillac Celestiq",
@@ -2158,7 +2895,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Warren, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cadillac Lyriq / Vistiq / XT5",
@@ -2188,7 +2936,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Spring Hill, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Corvette (Stingray, Z06, E-Ray, ZR1)",
@@ -2217,7 +2976,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bowling Green, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chevrolet Bolt (2027 model, next-gen)",
@@ -2251,7 +3021,18 @@
    "alternatives": [
     "049cd35a",
     "e24d8482"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kansas City, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Jeep Wrangler / Gladiator",
@@ -2280,7 +3061,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Toledo, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Jeep Grand Cherokee / Grand Cherokee L and Dodge Durango",
@@ -2309,7 +3101,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Detroit, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Jeep Wagoneer / Grand Wagoneer / Grand Wagoneer L / Grand Wagoneer REEV",
@@ -2338,7 +3141,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Warren, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ram 1500",
@@ -2369,7 +3183,18 @@
    },
    "alternatives": [
     "2bd1ae5a"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sterling Heights, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Volkswagen Atlas / Atlas Cross Sport / ID.4",
@@ -2401,7 +3226,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chattanooga, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Dodge Charger (2-door/4-door, Sixpack) / Charger Daytona EV",
@@ -2429,7 +3265,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Chrysler Pacifica / Pacifica Hybrid / Voyager / Grand Caravan (Canada)",
@@ -2457,7 +3297,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Chevrolet Silverado 1500 / Silverado HD (Oshawa-built)",
@@ -2485,7 +3329,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Ford Super Duty (Oakville, Ontario - from 2026)",
@@ -2514,7 +3362,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Ultium Cells (GM/LG) EV battery cells",
@@ -2547,7 +3399,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lordstown, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Spring Hill, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "BlueOval SK (Ford/SK On) EV battery plant, Glendale, KY",
@@ -2581,7 +3450,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Glendale, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Goodyear tires - Topeka, KS plant",
@@ -2614,7 +3494,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lawton, Oklahoma",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Tupelo, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Goodyear tires - Danville, VA plant",
@@ -2644,7 +3541,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Goodyear / Kelly-Springfield tires - Fayetteville, NC plant",
@@ -2676,7 +3577,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Cooper Tires (Goodyear-owned) - Findlay, OH plant",
@@ -2711,7 +3616,18 @@
    "alternatives": [
     "05574c03",
     "61f0574f"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Cooper's Tupelo, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cooper Tires (Goodyear-owned) - Texarkana, AR plant",
@@ -2741,7 +3657,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Bridgestone / Firestone tires - Des Moines, IA plant",
@@ -2775,7 +3695,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bridgestone's Aiken, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Wilson, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "LaVergne, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Bridgestone / Firestone tires - Warren County (Morrison), TN plant",
@@ -2803,7 +3746,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Bridgestone retread / components - Akron OH, Bloomington IL, Russellville AR",
@@ -2834,7 +3781,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bloomington, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Akron, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Russellville, Arkansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "BFGoodrich (Michelin) tires - Tuscaloosa, AL plant",
@@ -2866,7 +3836,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lexington, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Dothan, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Ardmore, Oklahoma",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "BFGoodrich (Michelin) tires - Woodburn / Fort Wayne, IN plant",
@@ -2896,7 +3889,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Yokohama Tire - Salem, VA plant",
@@ -2927,7 +3924,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "West Point, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Titan Tire - Freeport, IL; Des Moines, IA; Bryan, OH",
@@ -2959,7 +3967,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "JH, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Kumho Tire - Macon, GA plant",
@@ -2992,7 +4011,11 @@
    "alternatives": [
     "05574c03",
     "61f0574f"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Goodyear tires - Medicine Hat, Alberta plant",
@@ -3019,7 +4042,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Clarios lead-acid car batteries - Holland (Toledo), OH plant",
@@ -3050,7 +4077,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "FRAM oil filters - Greenville, OH",
@@ -3079,7 +4110,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Greenville, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Dana axles and driveshafts",
@@ -3108,7 +4150,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dry Ridge, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Allison Transmission - Indianapolis, IN",
@@ -3137,7 +4190,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Indianapolis, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Harley-Davidson motorcycles - York, PA final assembly",
@@ -3168,7 +4232,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "York, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Harley-Davidson powertrain (Menomonee Falls, WI) and Tomahawk, WI components",
@@ -3197,7 +4272,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Menomonee Falls, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Tomahawk, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "John Deere lawn tractors and riding mowers - Horicon, WI",
@@ -3227,7 +4319,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Horicon, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "John Deere agricultural equipment and engines (Iowa/Illinois)",
@@ -3259,7 +4362,24 @@
    },
    "alternatives": [
     "4d12f45e"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Waterloo, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "East Moline, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Case IH / CNH tractors and combines (Racine, WI; Burlington, IA)",
@@ -3289,7 +4409,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Racine, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Burlington, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Anheuser-Busch (Budweiser, Bud Light, Michelob, Busch, Natural Light, Shock Top, Rolling Rock, Landshark, O'Doul's, Stella Artois/Beck's US-brewed)",
@@ -3328,7 +4465,11 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Molson Coors (Miller Lite, Miller High Life, MGD, Coors Banquet, Coors Light, Blue Moon, Leinenkugel's, Keystone)",
@@ -3367,7 +4508,42 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Milwaukee, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Trenton, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fort Worth, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Albany, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Chippewa Falls, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Samuel Adams / Boston Beer (Sam Adams, Angry Orchard, Twisted Tea bottles, Truly)",
@@ -3401,7 +4577,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Cincinnati, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Genesee / Dundee / Seneca (Genesee Brewing, Rochester NY)",
@@ -3432,7 +4619,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Rochester, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Matt Brewing Co. (Saranac, Utica Club)",
@@ -3463,7 +4661,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Utica, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Stevens Point Brewery (Point beers, Whole Hog, Ciderboys)",
@@ -3492,7 +4701,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Stevens Point, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "August Schell Brewing (Schell's, Grain Belt)",
@@ -3522,7 +4742,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "New Ulm, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lionshead / Stegmaier (Lion Brewery, Wilkes-Barre PA)",
@@ -3553,7 +4784,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Barre, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Minhas Craft Brewery (Monroe WI, Huber, Berghoff, Rhinelander)",
@@ -3584,7 +4826,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Monroe, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "City Brewing (contract brewer: Latrobe PA, La Crosse WI)",
@@ -3614,7 +4867,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "La Crosse, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Latrobe, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Labatt (Canada) / Moosehead",
@@ -3642,7 +4912,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Pabst / Schlitz / Old Style / Rainier / Lone Star",
@@ -3670,7 +4944,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Jim Beam (Beam Suntory), Jim Beam, Knob Creek, Booker's, Basil Hayden",
@@ -3700,7 +4978,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Boston, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Maker's Mark",
@@ -3730,7 +5019,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Loretto, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Heaven Hill (Evan Williams, Elijah Craig, Larceny, Old Fitzgerald)",
@@ -3762,7 +5062,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bardstown, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Four Roses Bourbon",
@@ -3792,7 +5103,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lawrenceburg, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Wild Turkey (Campari)",
@@ -3821,7 +5143,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lawrenceburg, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Buffalo Trace / Sazerac (Buffalo Trace, Eagle Rare, W.L. Weller, Blanton's)",
@@ -3851,7 +5184,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Frankfort, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Barton 1792 Distillery (1792, Very Old Barton)",
@@ -3880,7 +5224,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bardstown, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Woodford Reserve / Old Forester (Brown-Forman)",
@@ -3910,7 +5265,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Versailles, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Holladay Distillery / McCormick Distilling (Weston MO)",
@@ -3939,7 +5311,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Weston, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "E&J Gallo (Gallo, Barefoot, Andre, Carlo Rossi, Louis Martini, Mirassou, Ecco Domani, J Vineyards, New Amsterdam)",
@@ -3973,7 +5356,18 @@
    "alternatives": [
     "47610169",
     "021affb3"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Gallo's Modesto, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chateau Ste. Michelle / Columbia Crest / 14 Hands (Ste. Michelle Wine Estates)",
@@ -4003,7 +5397,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Woodinville, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Robert Mondavi / Woodbridge / Ravenswood / Toasted Head",
@@ -4033,7 +5438,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Acampo, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Franzia / Almaden / Paul Masson / Cupcake (The Wine Group)",
@@ -4063,7 +5479,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lodi, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Coca-Cola (Coke, Diet Coke, Sprite, Fanta, Powerade, Dasani, Minute Maid, Barq's)",
@@ -4100,7 +5527,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fort Wayne, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "PepsiCo beverages (Pepsi, Mountain Dew, Gatorade, Tropicana, Aquafina)",
@@ -4129,7 +5567,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Keurig Dr Pepper / American Bottling (Dr Pepper, 7UP, A&W, Canada Dry, Snapple, Mott's, Hawaiian Punch, Sunkist)",
@@ -4158,7 +5600,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Adirondack Beverages (Adirondack sodas, Waist Watcher, private-label)",
@@ -4187,7 +5633,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Scotia, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ocean Spray",
@@ -4223,7 +5680,24 @@
    },
    "alternatives": [
     "902f6459"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kenosha, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Aberdeen, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Welch's",
@@ -4253,7 +5727,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "North East, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lawton, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nabisco / Mondelez (Oreo, Ritz, Chips Ahoy!, Wheat Thins, Honey Maid, Premium, Triscuit, belVita)",
@@ -4288,7 +5779,42 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Portland, Oregon",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Richmond, Virginia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Naperville, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Aurora, Colorado",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Addison, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Frito-Lay (Lay's, Doritos, Cheetos, Fritos, Tostitos, Rold Gold, SunChips)",
@@ -4323,7 +5849,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Topeka, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Vancouver, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cheez-It / Keebler crackers / Club / Town House (Kellanova)",
@@ -4353,7 +5896,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Snyder of Berlin",
@@ -4382,7 +5929,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Berlin, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hershey (Hershey's bars, Kisses, Reese's, Kit Kat, Rolo, Jolly Rancher, Payday)",
@@ -4419,7 +5977,24 @@
    "alternatives": [
     "53c2c8fa",
     "eeb873bb"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hershey, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Hazleton, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Jelly Belly",
@@ -4450,7 +6025,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fairfield, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "North Chicago, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Tootsie Roll Industries (Tootsie Roll, Tootsie Pops, Junior Mints, Sugar Daddy, Sugar Babies, Charleston Chew, Dots, Andes)",
@@ -4481,7 +6073,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chicago, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Cambridge, Massachusetts",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Just Born (Peeps, Mike and Ike, Hot Tamales, Zours)",
@@ -4511,7 +6120,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bethlehem, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "See's Candies",
@@ -4541,7 +6161,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Los Angeles, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ghirardelli",
@@ -4572,7 +6203,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "San Leandro, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ferrara Candy (Butterfinger, Baby Ruth, 100 Grand, Raisinets, Crunch, Nerds, SweeTarts, Laffy Taffy, Brach's)",
@@ -4609,7 +6251,18 @@
    "alternatives": [
     "53c2c8fa",
     "eeb873bb"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bellwood, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "PEZ Candy",
@@ -4638,7 +6291,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Orange, Connecticut",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Spangler (Dum Dums, Circus Peanuts, Sweethearts)",
@@ -4667,7 +6331,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bryan, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Butterball",
@@ -4697,7 +6372,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Mount Olive, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Tyson Foods (fresh chicken, beef, pork; Hillshire Farm, Ball Park, Jimmy Dean)",
@@ -4739,7 +6425,36 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dakota City, Nebraska",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Waterloo, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Amarillo, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Storm Lake, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hormel (Spam, Hormel bacon, chili, Dinty Moore, Skippy, Planters)",
@@ -4774,7 +6489,42 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Austin, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Algona, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fremont, Nebraska",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Beloit, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Atlanta, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Smithfield Foods (Smithfield, Eckrich, Nathan's Famous, Armour)",
@@ -4809,7 +6559,30 @@
    "alternatives": [
     "23336320",
     "69b0f7ec"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Tar Heel, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Sioux Falls, South Dakota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Smithfield, Virginia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "JBS USA / Swift ground beef",
@@ -4844,7 +6617,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Greeley, Colorado",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Marshalltown, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Worthington, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cargill Meat Solutions (Cargill, Excel ground beef)",
@@ -4877,7 +6673,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dodge City, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Schuyler, Nebraska",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fort Morgan, Colorado",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "National Beef",
@@ -4907,7 +6726,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Liberal, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Boar's Head",
@@ -4943,7 +6773,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Jarratt, Virginia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Koegel Meats",
@@ -4972,7 +6813,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Flint, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Oscar Mayer (Kraft Heinz)",
@@ -5007,7 +6859,18 @@
    "alternatives": [
     "23336320",
     "69b0f7ec"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Davenport, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Land O'Lakes",
@@ -5035,7 +6898,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Tillamook County Creamery Association",
@@ -5068,7 +6935,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Tillamook, Oregon",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Dannon (Danone)",
@@ -5098,7 +6976,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Minster, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Kraft Heinz (Kraft cheese, Velveeta, Cheez Whiz, Heinz ketchup, Ore-Ida, Miracle Whip, A1, Grey Poupon, Claussen)",
@@ -5133,7 +7022,42 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fremont, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Ontario, Oregon",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Woodstock, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Springfield, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Champaign, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Campbell's (Campbell's soup, Prego, Pace, Swanson)",
@@ -5168,7 +7092,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Napoleon, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Paris, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Maxton, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Bimbo Bakeries USA (Arnold, Oroweat, Stroehmann, Freihofer's, Thomas', Sara Lee bread, Entenmann's, Ball Park buns)",
@@ -5197,7 +7144,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Tastykake (Flowers Foods)",
@@ -5226,7 +7177,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Philadelphia, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Aunt Millie's",
@@ -5255,7 +7217,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fort Wayne, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Kellogg's cereal (Frosted Flakes, Froot Loops, Rice Krispies, Raisin Bran, WK Kellogg Co)",
@@ -5291,7 +7264,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Battle Creek, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lancaster, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Memphis, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "General Mills cereal (Cheerios, Wheaties, Lucky Charms, Chex)",
@@ -5322,7 +7318,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Buffalo, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Cedar Rapids, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Quaker Oats (PepsiCo)",
@@ -5353,7 +7366,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Cedar Rapids, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Danville, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Folgers (J.M. Smucker)",
@@ -5384,7 +7414,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "New Orleans, Louisiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Maxwell House (Kraft Heinz)",
@@ -5416,7 +7457,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Jacksonville, Florida",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "American Crystal Sugar / Crystal Sugar",
@@ -5446,7 +7498,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Dole (canned pineapple, packaged salads) / Fresh Express",
@@ -5473,7 +7529,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Andy Boy / D'Arrigo Bros. produce",
@@ -5502,7 +7562,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Salinas, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "GE Appliances (Haier) - Appliance Park, Louisville",
@@ -5541,7 +7612,18 @@
    "alternatives": [
     "416492c0",
     "31e50621"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Bradford White water heaters",
@@ -5575,7 +7657,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Middleville, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Niles, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Whirlpool / Maytag / KitchenAid / Amana refrigerators - Amana, Iowa",
@@ -5611,7 +7710,18 @@
    "alternatives": [
     "416492c0",
     "31e50621"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Amana, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Whirlpool Ohio/Oklahoma/Tennessee plants (Clyde washers, Marion dryers, Findlay dishwashers, Ottawa freezers, Tulsa ranges, Cleveland TN cooking)",
@@ -5649,7 +7759,48 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Clyde, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Marion, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Findlay, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Ottawa, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Tulsa, Oklahoma",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Cleveland, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Whirlpool replacement parts (UAW-handled)",
@@ -5676,7 +7827,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Speed Queen washers and dryers (Alliance Laundry Systems)",
@@ -5710,7 +7865,24 @@
    },
    "alternatives": [
     "d5faa23a"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Ripon, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Manitowoc, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Sub-Zero refrigeration / Wolf cooking - Madison & Fitchburg, WI",
@@ -5747,7 +7919,24 @@
    "alternatives": [
     "3acd0f85",
     "3056fef9"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Madison, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fitchburg, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lennox residential furnaces and air conditioners - Marshalltown, Iowa",
@@ -5781,7 +7970,18 @@
    },
    "alternatives": [
     "6bf8624d"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Marshalltown, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Carrier / Bryant gas furnaces - Indianapolis",
@@ -5815,7 +8015,18 @@
    },
    "alternatives": [
     "6bf8624d"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Indianapolis, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Trane commercial HVAC - Clarksville, Tennessee",
@@ -5849,7 +8060,18 @@
    },
    "alternatives": [
     "6bf8624d"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Clarksville, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "All-Clad cookware",
@@ -5882,7 +8104,18 @@
    "alternatives": [
     "2361adfe",
     "b5dab4b9"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Canonsburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Vollrath cookware and kitchen supplies",
@@ -5912,7 +8145,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sheboygan, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Regal Ware cookware (Regal, Saladmaster, Royal Prestige, American Kitchen)",
@@ -5941,7 +8185,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kewaskum, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Anchor Hocking glassware (and Pyrex, now Lancaster OH)",
@@ -5972,7 +8227,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lancaster, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Charleroi, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Fiesta dinnerware (Fiesta Tableware Co., formerly Homer Laughlin)",
@@ -6003,7 +8275,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Newell, West Virginia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cutco cutlery and kitchen tools",
@@ -6033,7 +8316,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Olean, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Libbey glassware - Toledo, Ohio",
@@ -6062,7 +8356,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Toledo, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Interior Crafts furniture - Chicago",
@@ -6092,7 +8397,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chicago, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "La-Z-Boy recliners - Dayton, Tennessee plant",
@@ -6124,7 +8440,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dayton, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Serta / Sealy mattresses (select plants)",
@@ -6152,7 +8479,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Kohler plumbing fixtures, faucets and engines - Kohler, Wisconsin",
@@ -6189,7 +8520,18 @@
    "alternatives": [
     "626bde0d",
     "15310c62"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Mosel, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "BrassCraft (Masco) plumbing parts and supplies",
@@ -6221,7 +8563,11 @@
    "alternatives": [
     "626bde0d",
     "15310c62"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Mueller Industries brass stock",
@@ -6252,7 +8598,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fulton, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Covington, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Threaded Products Co. household plumbing fittings",
@@ -6281,7 +8644,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Reed Manufacturing plumbing tools - Erie, PA",
@@ -6310,7 +8677,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Erie, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Andersen / EMCO storm doors - Des Moines, Iowa",
@@ -6343,7 +8721,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Des Moines, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "L.E. Johnson Products door hardware - Elkhart, Indiana",
@@ -6372,7 +8761,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Elkhart, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Johns Manville insulation - Defiance, Ohio",
@@ -6401,7 +8801,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Defiance, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hancock Enterprises aluminum gutters and downspouts",
@@ -6430,7 +8841,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Central Aluminum patio enclosures",
@@ -6459,7 +8874,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Air Conditioning Products Co. dampers and wall shutters",
@@ -6488,7 +8907,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Warminster Fiberglass",
@@ -6517,7 +8940,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Southampton, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Sheboygan Paint Company",
@@ -6546,7 +8980,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Sheboygan, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Sherwin-Williams paint (select US plants)",
@@ -6573,7 +9018,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "U.S. Steel (Nippon Steel) - Gary Works, Mon Valley, Granite City",
@@ -6606,7 +9055,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Granite City, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Cleveland-Cliffs steel - Burns Harbor, Indiana Harbor, Cleveland, Middletown, Dearborn",
@@ -6636,7 +9096,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "USG gypsum wallboard (Sheetrock) - select plants",
@@ -6664,7 +9128,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Armstrong World Industries ceilings / AHF (Armstrong) flooring - Lancaster, PA",
@@ -6693,7 +9161,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Marietta, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lancaster, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Eaton electrical products (IBEW-made lines)",
@@ -6721,7 +9206,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "GE Profile refrigerators and GE washing machines (IBEW-listed)",
@@ -6751,7 +9240,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Weyerhaeuser lumber and engineered wood (Pacific Northwest mills)",
@@ -6782,7 +9282,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Owens Corning insulation and shingles (select plants)",
@@ -6813,7 +9317,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kansas City, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Newark, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Thermador appliances (Boilermakers-listed)",
@@ -6842,7 +9363,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "New Bern, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hoover vacuums (IBEW-listed, historical)",
@@ -6871,7 +9403,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "North Canton, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Walbro lawn & garden home products / Whirltronics mower blades",
@@ -6898,7 +9441,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "John Deere residential lawn mowers - Horicon, Wisconsin",
@@ -6928,7 +9475,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Horicon, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Euclid Chemical concrete additives",
@@ -6957,7 +9515,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Cleveland, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Frigidaire / White-Westinghouse / Tappan / Gibson / Kelvinator laundry (historical Union Plus listing)",
@@ -6993,7 +9562,42 @@
    },
    "alternatives": [
     "d5faa23a"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Webster City, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "St. Cloud, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Anderson, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Springfield, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Kinston, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "FairHotel.org (UNITE HERE union hotel finder)",
@@ -7022,7 +9626,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Minneapolis-St. Paul union hotels (UNITE HERE Local 17)",
@@ -7052,7 +9660,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Rochester, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chicago downtown union hotels (UNITE HERE Local 1)",
@@ -7080,7 +9699,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Las Vegas Strip union casino-resorts (Culinary Union Local 226 / Bartenders Local 165)",
@@ -7113,7 +9736,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Luxor, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "New York City union hotels (Hotel & Gaming Trades Council)",
@@ -7144,7 +9778,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union hotel brands (Union Plus list)",
@@ -7172,7 +9810,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "UnionEats.org (Las Vegas union restaurants)",
@@ -7200,7 +9842,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Twin Cities union restaurants, bars & breweries (UNITE HERE Local 17)",
@@ -7227,7 +9873,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Chicago Federation of Labor union restaurant & vendor guide",
@@ -7255,7 +9905,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Twin Cities stadium & arena concessions",
@@ -7284,7 +9938,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Chicago stadium & arena concessions",
@@ -7313,7 +9971,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "MSP Airport food & lounge concessions",
@@ -7340,7 +10002,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Starbucks (Workers United stores)",
@@ -7372,7 +10038,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Cub Foods (UNFI corporate & franchise stores, Twin Cities)",
@@ -7403,7 +10073,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Lunds & Byerlys",
@@ -7432,7 +10106,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Kowalski's Markets",
@@ -7460,7 +10138,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Knowlan's Festival Foods, Jerry's Foods & other Twin Cities independents",
@@ -7490,7 +10172,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Jewel-Osco (Albertsons) - Chicagoland",
@@ -7518,7 +10204,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Mariano's (Kroger) - Chicagoland",
@@ -7546,7 +10236,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Kroger family of stores (union banners)",
@@ -7576,7 +10270,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Albertsons / Safeway family (union banners)",
@@ -7606,7 +10304,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Stop & Shop and Giant (Ahold Delhaize)",
@@ -7640,7 +10342,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "New England, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "DC, Maryland",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Meijer (Michigan)",
@@ -7675,7 +10394,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Illinois, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Ohio, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Schnucks (St. Louis / Illinois)",
@@ -7705,7 +10441,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Costco (Teamsters warehouses)",
@@ -7744,7 +10484,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "California, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "New Jersey, Maryland",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "CVS Pharmacy (Chicagoland stores)",
@@ -7775,7 +10532,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "California, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chicagoland new-car dealership service departments (IAM Local 701)",
@@ -7804,7 +10572,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Twin Cities union dealership & truck shops (Teamsters Local 974 / IAM District 77)",
@@ -7835,7 +10607,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "American Airlines",
@@ -7864,7 +10640,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "United Airlines",
@@ -7893,7 +10673,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Southwest Airlines",
@@ -7921,7 +10705,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Alaska Airlines (incl. Hawaiian)",
@@ -7951,7 +10739,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Horizon Air, Alaska",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Frontier, Spirit & JetBlue (partial)",
@@ -7980,7 +10779,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Sun Country Airlines (Minneapolis)",
@@ -8008,7 +10811,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Hertz (Teamsters airport locations)",
@@ -8037,7 +10844,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Avis Budget (Teamsters airport locations)",
@@ -8065,7 +10876,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union movers (Teamsters) - how to find",
@@ -8098,7 +10913,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Minnesota, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "UPS",
@@ -8126,7 +10952,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "USPS (US Postal Service)",
@@ -8154,7 +10984,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Amalgamated Bank",
@@ -8184,7 +11018,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "York City, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "AFL-CIO Employees Federal Credit Union",
@@ -8213,7 +11058,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union Plus (AFL-CIO member benefits)",
@@ -8241,7 +11090,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Ullico (Union Labor Life Insurance Co.)",
@@ -8270,7 +11123,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "AT&T (wireless & wireline)",
@@ -8299,7 +11156,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Verizon (wireline; some wireless retail)",
@@ -8330,7 +11191,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lynnwood, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Minnesota Star Tribune & St. Paul Pioneer Press",
@@ -8360,7 +11232,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Chicago Tribune & Chicago Sun-Times",
@@ -8388,7 +11264,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "NewsGuild-CWA newsrooms (national)",
@@ -8420,7 +11300,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "York Times, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Post, Louisiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Allied Printing Trades label (union 'bug')",
@@ -8449,7 +11346,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Labor 411 (union directory)",
@@ -8477,7 +11378,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union Label & Service Trades Dept. (unionlabel.org)",
@@ -8504,7 +11409,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union cinemas & live entertainment (IATSE/AFM)",
@@ -8534,7 +11443,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Union-made professional sports (players' unions)",
@@ -8562,7 +11475,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Whole Foods Philadelphia (Spring Garden store)",
@@ -8590,7 +11507,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Trader Joe's United stores",
@@ -8623,7 +11544,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hadley, Massachusetts",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Oakland, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Teamsters Local 120 union vendor list (MN/IA/ND/SD)",
@@ -8653,7 +11597,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Blaine, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Minnesota, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Peerless Chain Company (Kito Crosby) - Winona, Minnesota",
@@ -8684,7 +11645,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Winona, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "3M - Springfield, Missouri plant (USW, organized Dec 2025)",
@@ -8715,7 +11687,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Springfield, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Red Wing, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Aberdeen, South Dakota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Milwaukee Tool",
@@ -8757,7 +11752,11 @@
      "charger"
     ]
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Southwire",
@@ -8786,7 +11785,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Carrollton, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Encore Wire (now Prysmian, McKinney TX)",
@@ -8816,7 +11826,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "McKinney, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lincoln Electric",
@@ -8845,7 +11866,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Euclid, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Werner Ladder",
@@ -8878,7 +11910,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Greenville, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Louisville, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Craftsman",
@@ -8908,7 +11957,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fort Worth, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Round House (Shawnee, OK)",
@@ -8939,7 +11999,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Shawnee, Oklahoma",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "White's Boots (Spokane, WA)",
@@ -8969,7 +12040,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Spokane, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nicks Handmade Boots (Spokane, WA)",
@@ -8998,7 +12080,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Spokane, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Dickies (VF/Williamson-Dickie)",
@@ -9025,7 +12118,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Duluth Trading Co.",
@@ -9052,7 +12149,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Carhartt, imported lines",
@@ -9080,7 +12181,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Red Wing, Potosi, MO & Clarksville, AR plants; Irish Setter imports",
@@ -9112,7 +12217,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Potosi, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Clarksville, Arkansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Justin Boots / Tony Lama / Nocona (Justin Brands)",
@@ -9144,7 +12266,18 @@
    },
    "alternatives": [
     "e429f026"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "El Paso, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nokona ballgloves (Nocona, TX)",
@@ -9174,7 +12307,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Nocona, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Pointer Brand (L.C. King Mfg., Bristol, TN)",
@@ -9203,7 +12347,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bristol, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Big Bill (Codet Inc.)",
@@ -9231,7 +12386,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "North Star Glove Co. (Tacoma, WA)",
@@ -9261,7 +12420,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Tacoma, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Midwest Glove & Gear (Chillicothe, MO)",
@@ -9290,7 +12460,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chillicothe, Missouri",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Darn Tough / Fox River / Thorlo socks",
@@ -9321,7 +12502,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Northfield, Vermont",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Osage, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Statesville, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "New Balance (USA-made 990 series)",
@@ -9351,7 +12555,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Norridgewock, Maine",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lawrence, Massachusetts",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Filson (Seattle) / Wesco (Scappoose, OR) / KEEN Utility (Portland)",
@@ -9381,7 +12602,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Scappoose, Oregon",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Texas Jeans USA / Origin USA / Raleigh Denim / Tellason / Railcar",
@@ -9410,7 +12642,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Sumitomo / Dunlop tires - Buffalo (Tonawanda), NY plant",
@@ -9443,7 +12679,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Buffalo, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Tesla (Model 3/Y/S/X, Cybertruck) - Fremont CA, Austin TX",
@@ -9476,7 +12723,24 @@
    "alternatives": [
     "049cd35a",
     "d87f98c9"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Fremont, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Austin, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Rivian (R1T, R1S, EDV) - Normal, IL",
@@ -9508,7 +12772,18 @@
    "alternatives": [
     "049cd35a",
     "e24d8482"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Normal, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lucid (Air, Gravity) - Casa Grande, AZ",
@@ -9540,7 +12815,18 @@
    "alternatives": [
     "049cd35a",
     "e24d8482"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Casa Grande, Arizona",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Mercedes-Benz (GLE, GLS, EQS SUV) - Vance, AL",
@@ -9573,7 +12859,18 @@
    "alternatives": [
     "c43900d6",
     "58acbf0f"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Vance, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Toyota US plants (Georgetown KY, Princeton IN, San Antonio TX, Huntsville AL, Blue Springs MS) and Cambridge/Woodstock, ON",
@@ -9607,7 +12904,42 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Huntsville, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Georgetown, Kentucky",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Princeton, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "San Antonio, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Blue Springs, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Honda / Acura US plants (Marysville & East Liberty OH, Lincoln AL, Greensburg IN) and Alliston, ON",
@@ -9638,7 +12970,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "East Liberty, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lincoln, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Greensburg, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nissan (Smyrna TN, Canton MS), Hyundai (Montgomery AL), Kia (West Point GA), Subaru (Lafayette IN), BMW (Spartanburg SC), Mazda-Toyota (Huntsville AL), Volvo (Ridgeville SC)",
@@ -9672,7 +13027,66 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Smyrna, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Canton, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Montgomery, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Savannah, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "West Point, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lafayette, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Spartanburg, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Huntsville, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Ridgeville, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Detroit Three models built in Mexico (Ram HD 2500/3500, Ram ProMaster, Ford Maverick, Bronco Sport, Mustang Mach-E, Chevy Equinox/Blazer/Equinox EV/Blazer EV, Cadillac Optiq, Jeep Compass, GMC Terrain)",
@@ -9700,7 +13114,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Non-union US tire plants: Goodyear Lawton OK & Tupelo MS; Bridgestone Aiken SC & Wilson NC; Michelin SC/AL/OK plants; Continental Mt. Vernon IL / Sumter SC / Clinton MS; Hankook Clarksville TN; Toyo White GA; Nokian Dayton TN; Giti Richburg SC; Pirelli Rome GA",
@@ -9740,7 +13158,90 @@
    "alternatives": [
     "05574c03",
     "61f0574f"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Goodyear's Lawton, Oklahoma",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Tupelo, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Bridgestone's Aiken, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Wilson, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "South Carolina, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Mount Vernon, Illinois",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Sumter, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Clinton, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Clarksville, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "White, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Dayton, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Richburg, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Rome, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Polaris (RZR, Ranger, Indian Motorcycle - Spirit Lake IA, Huntsville AL, Roseau MN)",
@@ -9771,7 +13272,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Spirit Lake, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Huntsville, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Roseau, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Yuengling",
@@ -9806,7 +13330,30 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Pottsville, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Tampa, Florida",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fort Worth, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Bell's Brewery (Kirin/Lion)",
@@ -9838,7 +13385,18 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Comstock, Michigan",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Sierra Nevada",
@@ -9873,7 +13431,24 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Chico, California",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Mills River, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Sam Adams, Breinigsville PA brewery",
@@ -9905,7 +13480,18 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Breinigsville, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Anchor Brewing",
@@ -9935,7 +13521,11 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Goose Island Chicago (Fulton St.) brewery / Great Lakes / Surly",
@@ -9966,7 +13556,11 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Coors, Golden CO and Shenandoah VA breweries",
@@ -9999,7 +13593,24 @@
    "alternatives": [
     "a9d332d3",
     "626fc935"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Golden, Colorado",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Shenandoah, Virginia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Hostess (Twinkies, Ding Dongs, Ho Hos, J.M. Smucker)",
@@ -10034,7 +13645,30 @@
    "alternatives": [
     "927c3907",
     "77fd58b1"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Emporia, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Columbus, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Indianapolis, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Chobani",
@@ -10067,7 +13701,24 @@
    "alternatives": [
     "6fda54d1",
     "1b0000a5"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Twin Falls, Idaho",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "South Edmeston, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nature's Own / Wonder / Dave's Killer Bread (Flowers Foods)",
@@ -10097,7 +13748,11 @@
    "alternatives": [
     "d78b14a3",
     "98891b6c"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Brach's (Ferrara)",
@@ -10127,7 +13782,11 @@
    "alternatives": [
     "53c2c8fa",
     "eeb873bb"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Oreo / Chips Ahoy! from Salinas, Mexico",
@@ -10157,7 +13816,11 @@
    "alternatives": [
     "927c3907",
     "77fd58b1"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Snyder's of Hanover / Pepperidge Farm / Cape Cod (Campbell Snacks)",
@@ -10189,7 +13852,18 @@
    "alternatives": [
     "927c3907",
     "77fd58b1"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Hanover, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Frito-Lay non-union plants",
@@ -10221,7 +13895,18 @@
    "alternatives": [
     "927c3907",
     "77fd58b1"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Vancouver, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Starbucks packaged coffee",
@@ -10256,7 +13941,30 @@
    "alternatives": [
     "6f6c4b84",
     "1be943a5"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Kent, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "York, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Augusta, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Jack Daniel's (Brown-Forman)",
@@ -10289,7 +13997,18 @@
    "alternatives": [
     "24caf426",
     "c013a4c7"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Lynchburg, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Nucor steel (rebar, beams, decking, joists)",
@@ -10319,7 +14038,11 @@
    "alternatives": [
     "9861a790",
     "299cf465"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Steel Dynamics (SDI) steel",
@@ -10353,7 +14076,18 @@
    "alternatives": [
     "9861a790",
     "299cf465"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Indiana, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Southwire wire and cable (Romex NM-B)",
@@ -10386,7 +14120,18 @@
    },
    "alternatives": [
     "e6d4cda6"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Carrollton, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Encore Wire (Prysmian) building wire",
@@ -10417,7 +14162,18 @@
    },
    "alternatives": [
     "f78f60b7"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "McKinney, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lutron dimmers and lighting controls",
@@ -10446,7 +14202,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Coopersburg, Pennsylvania",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Leviton wiring devices",
@@ -10473,7 +14240,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Pella windows and doors",
@@ -10505,7 +14276,18 @@
    "alternatives": [
     "d9bd330c",
     "d1f417c5"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Pella, Iowa",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Andersen windows (Bayport MN, Menomonie WI) and Renewal by Andersen",
@@ -10539,7 +14321,24 @@
    "alternatives": [
     "ed1324ae",
     "d1f417c5"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Bayport, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Menomonie, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Marvin windows",
@@ -10572,7 +14371,24 @@
    "alternatives": [
     "ed1324ae",
     "d9bd330c"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Warroad, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fargo, North Dakota",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Lodge cast iron cookware",
@@ -10605,7 +14421,18 @@
    "alternatives": [
     "2361adfe",
     "b5dab4b9"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "South Pittsburg, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Vitamix blenders",
@@ -10634,7 +14461,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Olmsted Township, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Viking Range",
@@ -10665,7 +14503,18 @@
    },
    "alternatives": [
     "3acd0f85"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Greenwood, Mississippi",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "A. O. Smith / State / American water heaters",
@@ -10699,7 +14548,30 @@
    },
    "alternatives": [
     "b9bef55e"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Ashland City, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Johnson City, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "McBee, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Rheem / Ruud water heaters and HVAC",
@@ -10730,7 +14602,30 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Montgomery, Alabama",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Eagan, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Fort Smith, Arkansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Goodman / Amana HVAC (Daikin) - Waller, Texas",
@@ -10760,7 +14655,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Waller, Texas",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Electrolux / Frigidaire US plants (Anderson SC, Springfield TN, Kinston NC)",
@@ -10795,7 +14701,30 @@
    "alternatives": [
     "416492c0",
     "31e50621"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Anderson, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Springfield, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Kinston, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "LG (Clarksville TN) and Samsung (Newberry SC) washers",
@@ -10825,7 +14754,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Clarksville, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Newberry, South Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Moen and Delta faucets",
@@ -10859,7 +14805,30 @@
    "alternatives": [
     "626bde0d",
     "15310c62"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "North Olmsted, Ohio",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Sanford, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Greensburg, Indiana",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Shaw and Mohawk carpet / flooring (Dalton, GA)",
@@ -10888,7 +14857,18 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Dalton, Georgia",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Ethan Allen furniture",
@@ -10921,7 +14901,18 @@
    "alternatives": [
     "53688bca",
     "1b49f678"
-   ]
+   ],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Vermont, North Carolina",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Master Lock padlocks (Milwaukee, UAW Local 469) - CLOSED",
@@ -10951,7 +14942,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Hy-Vee",
@@ -10993,7 +14988,36 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Iowa, Minnesota",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Illinois, Wisconsin",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Missouri, Kansas",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Indiana, Tennessee",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Trader Joe's (all but 5 stores)",
@@ -11021,7 +15045,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Whole Foods Market (Amazon)",
@@ -11049,7 +15077,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Costco (Minnesota, Illinois & most other warehouses)",
@@ -11086,7 +15118,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "California, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "New Jersey, Maryland",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Target",
@@ -11116,7 +15165,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Starbucks (non-union stores; boycott)",
@@ -11144,7 +15197,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Delta Air Lines (flight attendants, ramp, customer service)",
@@ -11176,7 +15233,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "FedEx (Ground, Express, Freight)",
@@ -11204,7 +15265,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Amazon (delivery, warehouses, Whole Foods)",
@@ -11232,7 +15297,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "T-Mobile US",
@@ -11260,7 +15329,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Verizon Wireless retail (outside a few stores)",
@@ -11291,7 +15364,24 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": [
+     {
+      "place": "Brooklyn, New York",
+      "note": "",
+      "source": null,
+      "derived": true
+     },
+     {
+      "place": "Lynnwood, Washington",
+      "note": "",
+      "source": null,
+      "derived": true
+     }
+    ]
+   }
   },
   {
    "name": "Most car dealerships (sales & service)",
@@ -11321,7 +15411,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Skogen's Festival Foods (Wisconsin)",
@@ -11352,7 +15446,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   },
   {
    "name": "Walmart / Sam's Club, Aldi, Lidl",
@@ -11380,7 +15478,11 @@
     "include": [],
     "exclude": []
    },
-   "alternatives": []
+   "alternatives": [],
+   "made": {
+    "materials": [],
+    "plants": []
+   }
   }
  ]
 }

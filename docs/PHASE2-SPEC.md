@@ -64,6 +64,27 @@ Existing fields stay. Add:
 
 The `scripts/add_match_fields.py` script seeds `aliases` and `match.brand` from `name` for all current items. `include`/`exclude` get filled by the daily job and by hand.
 
+Each item also carries a `made` block that says where the thing is made and what it is made from:
+
+```json
+"made": {
+  "plants": [
+    { "place": "Meadville, Pennsylvania", "note": "forging and finishing", "source": "https://...", "derived": true }
+  ],
+  "materials": [
+    { "material": "steel", "origin": "US mills", "status": "confirmed", "source": "https://..." }
+  ]
+}
+```
+
+Rules for `made`:
+
+- `plants` with `"derived": true` were pulled out of the entry's own sourced text by `scripts/add_made_fields.py`. The daily job upgrades them by attaching a direct `source` and removing `derived`.
+- Every `materials` entry has a `status`: `confirmed` (the maker or a union says so, with a source), `reported` (an aggregator or press mention), or `unknown`. Nothing gets shown as fact without a source.
+- An empty `materials` list means not researched yet, and the extension says exactly that.
+
+The hover card (product pages and search result tiles) shows: the verdict, the plants, the materials with their status, the union status, and the fine print.
+
 ## Privacy
 
 No accounts. No browsing history leaves the machine. The only outbound calls are: fetching `index.json`, and the report button (user-initiated, sends brand + product title + URL). Say this plainly in the store listing.

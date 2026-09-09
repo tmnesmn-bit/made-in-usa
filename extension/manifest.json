@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Made in USA Index",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shows whether a product is made in the USA and whether the shop is union, right on the product page. Sources included.",
   "permissions": ["storage", "alarms"],
   "host_permissions": [
@@ -33,7 +33,7 @@
         "https://www.acmetools.com/*",
         "https://www.ebay.com/*"
       ],
-      "js": ["src/sites.js", "src/match.js", "src/content.js"],
+      "js": ["src/sites.js", "src/match.js", "src/content.js", "src/results.js"],
       "css": ["src/badge.css"],
       "run_at": "document_idle"
     }
