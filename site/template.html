@@ -1,0 +1,246 @@
+<title>Made in USA Index</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&amp;family=Source+Sans+3:ital,wght@0,400;0,600;1,400&amp;display=swap">
+<style>
+:root{
+  --bg:#EEF1F4;--panel:#FFFFFF;--panel2:#F7F8FA;--ink:#12203A;--ink2:#4A5568;--ink3:#5A6675;--line:#D5DBE3;
+  --accent:#C8102E;--accent-ink:#FFFFFF;--navy:#12203A;
+  --ok:#1E7B4F;--ok-bg:#E3F3EA;--warn:#8A5E0B;--warn-bg:#FBF1D6;--meh:#5B6572;--meh-bg:#E9ECF0;--bad:#A12A2A;--bad-bg:#F8E1E1;--union:#1D4E89;--union-bg:#E1EBF7;
+  --shadow:0 1px 2px rgba(18,32,58,.08),0 4px 14px rgba(18,32,58,.06);
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0F1623;--panel:#18202E;--panel2:#1F2937;--ink:#E9EEF5;--ink2:#B4BECD;--ink3:#8B96A6;--line:#2C3747;
+  --accent:#E8384F;--accent-ink:#FFFFFF;--navy:#0A1020;
+  --ok:#5CCB8E;--ok-bg:#153524;--warn:#E3B54A;--warn-bg:#3A2E10;--meh:#A7B1BF;--meh-bg:#28313E;--bad:#F08A8A;--bad-bg:#41201F;--union:#8DB8F0;--union-bg:#1B2E4A;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+}}
+:root[data-theme="dark"]{
+  --bg:#0F1623;--panel:#18202E;--panel2:#1F2937;--ink:#E9EEF5;--ink2:#B4BECD;--ink3:#8B96A6;--line:#2C3747;
+  --accent:#E8384F;--accent-ink:#FFFFFF;--navy:#0A1020;
+  --ok:#5CCB8E;--ok-bg:#153524;--warn:#E3B54A;--warn-bg:#3A2E10;--meh:#A7B1BF;--meh-bg:#28313E;--bad:#F08A8A;--bad-bg:#41201F;--union:#8DB8F0;--union-bg:#1B2E4A;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Source Sans 3","Segoe UI",system-ui,sans-serif;font-size:16px;line-height:1.45}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.site-header{background:var(--navy);color:#fff;border-bottom:6px solid var(--accent)}
+.hd{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;padding:22px 0 16px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:14px}
+.bug{width:54px;height:54px;border:3px solid #fff;border-radius:50%;display:grid;place-items:center;font-family:Oswald,Impact,sans-serif;font-weight:600;font-size:12px;letter-spacing:.06em;line-height:1.05;text-align:center;padding-top:2px}
+h1{font-family:Oswald,Impact,"Arial Narrow",sans-serif;font-weight:600;font-size:30px;letter-spacing:.02em;margin:0;text-transform:uppercase;line-height:1}
+.tag{margin:6px 0 0;color:#C9D2E0;font-size:15px;max-width:60ch}
+.stats{display:flex;gap:22px;font-family:Oswald,sans-serif;font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:#C9D2E0}
+.stats b{display:block;font-size:24px;color:#fff;font-variant-numeric:tabular-nums;letter-spacing:0}
+.site-nav{display:flex;gap:18px;padding:0 0 12px;font-family:Oswald,sans-serif;font-size:13px;letter-spacing:.08em;text-transform:uppercase}
+.site-nav a{color:#C9D2E0;text-decoration:none;border-bottom:2px solid transparent;padding-bottom:2px}
+.site-nav a:hover{color:#fff;border-color:var(--accent)}
+.searchbar{padding:16px 0 18px}
+.search{display:flex;background:var(--panel);border:2px solid var(--line);border-radius:6px;box-shadow:var(--shadow);overflow:hidden}
+.search input{flex:1;border:0;background:transparent;color:var(--ink);font:inherit;font-size:19px;padding:14px 16px;min-width:0}
+.search input:focus{outline:none}
+.search:focus-within{border-color:var(--accent)}
+.search button{border:0;background:var(--accent);color:var(--accent-ink);font-family:Oswald,sans-serif;font-size:15px;letter-spacing:.08em;text-transform:uppercase;padding:0 22px;cursor:pointer}
+.hint{font-size:13.5px;color:var(--ink3);margin:8px 2px 0}
+.hint button{background:none;border:0;padding:0;margin-right:12px;color:var(--ink3);font:inherit;cursor:pointer;text-decoration:underline dotted}
+.layout{display:grid;grid-template-columns:250px 1fr;gap:22px;padding-bottom:40px}
+@media (max-width:820px){.layout{grid-template-columns:1fr}}
+.filters{position:sticky;top:12px;align-self:start}
+.fgroup{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin-bottom:12px}
+.fgroup h2{font-family:Oswald,sans-serif;font-weight:500;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink3);margin:0 0 8px;cursor:pointer}
+.opt{display:flex;align-items:center;gap:8px;padding:4px 0;font-size:15px;cursor:pointer}
+.opt input{accent-color:var(--accent)}
+.opt .n{margin-left:auto;color:var(--ink3);font-size:13px;font-variant-numeric:tabular-nums}
+.pill{display:inline-block;padding:2px 8px;border-radius:3px;font-family:Oswald,sans-serif;font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:500;white-space:nowrap}
+.o-usa{background:var(--ok-bg);color:var(--ok)}
+.o-part{background:var(--warn-bg);color:var(--warn)}
+.o-biz{background:var(--meh-bg);color:var(--meh)}
+.o-can{background:var(--meh-bg);color:var(--meh)}
+.o-no{background:var(--bad-bg);color:var(--bad)}
+.u-union{background:var(--union-bg);color:var(--union)}
+.u-non{background:var(--meh-bg);color:var(--meh)}
+.u-unclear{background:var(--meh-bg);color:var(--meh)}
+.rbar{display:flex;justify-content:space-between;align-items:center;margin:0 0 10px;font-size:14px;color:var(--ink2)}
+.rbar select{font:inherit;font-size:14px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:4px;padding:4px 8px}
+.list{display:flex;flex-direction:column;gap:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-left:5px solid var(--ok);border-radius:6px;padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:6px 16px}
+.card.c-part{border-left-color:var(--warn)}.card.c-biz,.card.c-can{border-left-color:var(--meh)}.card.c-no{border-left-color:var(--bad)}
+.card h3{margin:0;font-size:19px;font-weight:600;line-height:1.25;text-wrap:balance}
+.card .cat{font-size:12.5px;color:var(--ink3);letter-spacing:.06em;text-transform:uppercase;font-family:Oswald,sans-serif;font-weight:500}
+.card .right{display:flex;flex-direction:column;align-items:flex-end;gap:6px}
+.badges{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
+.buy{font-family:Oswald,sans-serif;font-size:13px;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;color:var(--accent);border:1.5px solid var(--accent);border-radius:4px;padding:4px 10px}
+.buy:hover{background:var(--accent);color:var(--accent-ink)}
+.what{grid-column:1/-1;margin:2px 0 0;font-size:15.5px}
+.meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px;color:var(--ink2)}
+.meta b{color:var(--ink);font-weight:600}
+.cav{grid-column:1/-1;font-size:14px;color:var(--ink2);border-top:1px dashed var(--line);padding-top:8px;margin-top:2px}
+.cav b{color:var(--warn)}
+.src{grid-column:1/-1;font-size:13px;color:var(--ink3)}
+.src a{color:var(--ink3);margin-right:10px;word-break:break-all}
+.src summary{cursor:pointer;color:var(--ink2)}
+.more{display:block;width:100%;padding:12px;background:var(--panel);border:1px solid var(--line);border-radius:6px;color:var(--ink);font:inherit;font-weight:600;cursor:pointer}.more:hover{border-color:var(--accent)}
+.empty{padding:40px;text-align:center;color:var(--ink3);background:var(--panel);border:1px dashed var(--line);border-radius:6px}
+.prose{max-width:70ch;font-size:16.5px;line-height:1.55}
+.prose h2{font-family:Oswald,sans-serif;font-weight:600;font-size:22px;letter-spacing:.03em;text-transform:uppercase;margin:0 0 10px}
+.prose p{margin:0 0 12px}
+.prose section{padding:26px 0;border-top:1px solid var(--line)}
+.key{display:grid;grid-template-columns:auto 1fr;gap:8px 14px;align-items:start;margin:8px 0 14px}
+.key .pill{margin-top:3px}
+.site-footer{border-top:1px solid var(--line);padding:18px 0 40px;font-size:14px;color:var(--ink3);line-height:1.5}
+button:focus-visible,input:focus-visible,a:focus-visible,select:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media (prefers-reduced-motion:no-preference){.card{transition:box-shadow .15s}.card:hover{box-shadow:var(--shadow)}}
+@media (max-width:600px){.card{grid-template-columns:1fr}.card .right{flex-direction:row;align-items:center;justify-content:space-between}.badges{justify-content:flex-start}h1{font-size:24px}.stats{gap:14px}}
+</style>
+
+<header class="site-header"><div class="wrap">
+  <div class="hd">
+    <div class="brand">
+      <div class="bug" aria-hidden="true">MADE<br>IN<br>USA</div>
+      <div><h1>Made in USA Index</h1><p class="tag">A working list of things still made in this country, and who makes them. Union shops are marked. Every entry shows its sources.</p></div>
+    </div>
+    <div class="stats" aria-label="Index totals"><div>Listings<b id="stTotal">0</b></div><div>Made in USA<b id="stUsa">0</b></div><div>Union shops<b id="stUnion">0</b></div><div>Last update<b id="stDate" style="font-size:16px;padding-top:6px">—</b></div></div>
+  </div>
+  <nav class="site-nav" aria-label="Page sections"><a href="#search">Search</a><a href="#how">How we check</a><a href="#about">About</a><a href="#corrections">Corrections</a></nav>
+</div></header>
+
+<main class="wrap">
+  <div class="searchbar" id="search">
+    <form class="search" role="search" onsubmit="return false">
+      <label for="q" class="visually-hidden" style="position:absolute;left:-9999px">Search the index</label>
+      <input id="q" type="search" placeholder="Search by product, brand, town, or union. Try boots, tires, rope, Minnesota, UFCW." autocomplete="off">
+      <button type="button" id="clear">Clear</button>
+    </form>
+    <div class="hint">Common searches: <button type="button" data-q="boots">boots</button><button type="button" data-q="tires">tires</button><button type="button" data-q="pliers">pliers</button><button type="button" data-q="bourbon">bourbon</button><button type="button" data-q="Minnesota">Minnesota</button><button type="button" data-q="hotel">hotel</button><button type="button" data-q="grocery">grocery</button><button type="button" data-q="Teamsters">Teamsters</button></div>
+  </div>
+
+  <div class="layout">
+    <aside class="filters" aria-label="Filters">
+      <div class="fgroup"><h2 title="Click to toggle all">Where it's made</h2>
+        <label class="opt"><input type="checkbox" class="org" value="Made in USA" checked><span class="pill o-usa">Made in USA</span><span class="n" id="n-usa"></span></label>
+        <label class="opt"><input type="checkbox" class="org" value="Partly made in USA" checked><span class="pill o-part">Partly made in USA</span><span class="n" id="n-part"></span></label>
+        <label class="opt"><input type="checkbox" class="org" value="American business" checked><span class="pill o-biz">American business</span><span class="n" id="n-biz"></span></label>
+        <label class="opt"><input type="checkbox" class="org" value="Made in Canada"><span class="pill o-can">Made in Canada</span><span class="n" id="n-can"></span></label>
+        <label class="opt"><input type="checkbox" class="org" value="Not made in USA"><span class="pill o-no">Not made in USA</span><span class="n" id="n-no"></span></label>
+      </div>
+      <div class="fgroup"><h2 title="Click to toggle all">Union shop?</h2>
+        <label class="opt"><input type="checkbox" class="uni" value="union" checked><span class="pill u-union">Union</span><span class="n" id="n-union"></span></label>
+        <label class="opt"><input type="checkbox" class="uni" value="non-union" checked><span class="pill u-non">Non-union</span><span class="n" id="n-non"></span></label>
+        <label class="opt"><input type="checkbox" class="uni" value="unclear" checked><span class="pill u-unclear">Unclear</span><span class="n" id="n-unclear"></span></label>
+      </div>
+      <div class="fgroup"><h2>State</h2><select id="state" aria-label="Filter by state" style="width:100%;font:inherit;font-size:15px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:4px;padding:6px 8px"><option value="">All states</option></select></div>
+      <div class="fgroup"><h2 title="Click to toggle all">Category</h2><div id="cats"></div></div>
+      <div class="fgroup"><h2 title="Click to toggle all">Union</h2><div id="unions"></div></div>
+    </aside>
+
+    <section aria-label="Results">
+      <div class="rbar"><span id="count" aria-live="polite"></span><label>Sort <select id="sort"><option value="name">name A to Z</option><option value="cat">category</option><option value="union">union first</option></select></label></div>
+      <div class="list" id="list"></div>
+    </section>
+  </div>
+
+  <div class="prose">
+    <section id="how">
+      <h2>How we check</h2>
+      <p>Every listing has to clear two questions: where is it actually made, and who works there. For the first one we go by the company's own plant list, factory tours, product tags, and for tires and vehicles the DOT plant code or the VIN. For the second we only call a shop union if the union itself, the company, or a contract notice says so. A brand showing up on somebody else's "union made" list is not enough on its own. Those lists go stale fast, and we have caught them crediting the wrong union more than once.</p>
+      <div class="key">
+        <span class="pill o-usa">Made in USA</span><span>The listed products come out of a US plant. If the brand also imports, the entry says which lines to look for.</span>
+        <span class="pill o-part">Partly made in USA</span><span>Some of the line is made here and some is not. Read the fine print on the card and check the tag before you buy.</span>
+        <span class="pill o-biz">American business</span><span>Not a product. A hotel, grocer, airline, bank, or the like, based here and worth knowing about because of who they employ.</span>
+        <span class="pill u-union">Union</span><span>A union represents the workers at the plant or location named. The local is listed when we have it.</span>
+        <span class="pill o-no">Not made in USA</span><span>Brands people assume are made here but are not, or particular lines you should skip. Hidden by default. Turn it on in the filters.</span>
+      </div>
+      <p>Each card also carries a note on how solid the union claim is. "Confirmed" means a union or company source. "Reported" means it is on aggregator lists only. "Unconfirmed" means we found the claim but could not back it up yet. Plants close, contracts get voted out, production moves. Check the date on the card's sources before a big purchase.</p>
+    </section>
+    <section id="about">
+      <h2>About this list</h2>
+      <p>This started as a favor for friends in the trades who did not want to guess at the hardware store. A lot of people want to spend their money on work done in this country, and union members in particular want to support shops that treat people the way their own local does. The trouble is that nobody keeps one plain list. The information is scattered across union newsletters, company press releases, contract notices, and old forum threads, and half of it is out of date.</p>
+      <p>So we keep the list by hand, out of Minnesota, and we keep it honest. We list what we can source and we say when we are not sure. We do not take money from any brand on the page and there are no affiliate links. The "where to buy" links go to the maker's own site.</p>
+    </section>
+    <section id="corrections">
+      <h2>Corrections and additions</h2>
+      <p>If you work at a plant on this list and something is wrong, or you know a US maker we missed, we want to hear it. The most useful thing you can send is the plant location and a link that backs it up: a union page, a contract notice, a news story, or the company's own factory page. Photos of a Made in USA tag or a union bug on the product help too.</p>
+      <p>Useful outside resources: <a href="https://unionlabel.org" rel="noopener">Union Label and Service Trades Department</a> for label lookups, <a href="https://www.fairhotel.org" rel="noopener">Fair Hotel</a> for union hotels by city, and <a href="https://uaw.org" rel="noopener">UAW</a> for the current year's union-built vehicle guide.</p>
+    </section>
+  </div>
+
+</main>
+<footer class="site-footer"><div class="wrap"><p id="ver"></p><p>Trademarks belong to their owners. Listing a brand here is not an endorsement by that brand or any union.</p></div></footer>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+var DATA=JSON.parse(document.getElementById('data').textContent);
+var ALL=DATA.items;
+var OCLS={'Made in USA':'o-usa','Partly made in USA':'o-part','American business':'o-biz','Made in Canada':'o-can','Not made in USA':'o-no'};
+var UCLS={'union':'u-union','non-union':'u-non','unclear':'u-unclear'};
+var ULAB={'union':'Union','non-union':'Non-union','unclear':'Union status unclear'};
+var EVLAB={'confirmed':'Confirmed','reported':'Reported','unconfirmed':'Unconfirmed'};
+function $(s){return document.querySelector(s)}
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+var KEYS=['USW','UAW','UFCW','IBEW','IAM','TEAMSTERS','UNITE HERE','BCTGM','IUE-CWA','CWA','UNIFOR','WORKERS UNITED','IUOE','SMART','BOILERMAKERS','UFW','ALPA','AFA','ILWU','GUILD'];
+function unionKey(u){u=(u||'').toUpperCase();for(var i=0;i<KEYS.length;i++){if(u.indexOf(KEYS[i])>-1)return KEYS[i]}return u?'Other':'None'}
+ALL.forEach(function(e){e.uk=e.union_status==='union'?unionKey(e.union):(e.union_status==='unclear'?unionKey(e.union):'None');e.hay=[e.name,e.category,e.subcategory,e.what,e.union,e.country,e.caveats,e.origin].join(' ').toLowerCase()});
+
+function count(f){return ALL.filter(f).length}
+$('#stTotal').textContent=ALL.length;
+$('#stUsa').textContent=count(function(e){return e.origin==='Made in USA'||e.origin==='Partly made in USA'});
+$('#stUnion').textContent=count(function(e){return e.union_status==='union'});
+$('#stDate').textContent=DATA.updated;
+$('#ver').textContent='List version '+DATA.version+', last updated '+DATA.updated+'. '+ALL.length+' listings.';
+var ids={'Made in USA':'n-usa','Partly made in USA':'n-part','American business':'n-biz','Made in Canada':'n-can','Not made in USA':'n-no'};
+Object.keys(ids).forEach(function(k){document.getElementById(ids[k]).textContent=count(function(e){return e.origin===k})});
+$('#n-union').textContent=count(function(e){return e.union_status==='union'});
+$('#n-non').textContent=count(function(e){return e.union_status==='non-union'});
+$('#n-unclear').textContent=count(function(e){return e.union_status==='unclear'});
+
+function buildChecks(id,cls,vals,counts){document.getElementById(id).innerHTML=vals.map(function(v){return '<label class="opt"><input type="checkbox" class="'+cls+'" value="'+esc(v)+'" checked><span>'+esc(v)+'</span><span class="n">'+counts[v]+'</span></label>'}).join('')}
+var cc={},uc={};ALL.forEach(function(e){cc[e.category]=(cc[e.category]||0)+1;uc[e.uk]=(uc[e.uk]||0)+1});
+buildChecks('cats','cat',Object.keys(cc).sort(),cc);
+var sc={};ALL.forEach(function(e){(e.states||[]).forEach(function(st){sc[st]=(sc[st]||0)+1})});
+$('#state').innerHTML+=Object.keys(sc).sort().map(function(st){return '<option value="'+esc(st)+'">'+esc(st)+' ('+sc[st]+')</option>'}).join('');
+buildChecks('unions','ukey',Object.keys(uc).sort(function(a,b){return uc[b]-uc[a]}),uc);
+
+function terms(){return $('#q').value.toLowerCase().trim().split(/\s+/).filter(Boolean)}
+function checked(cls){var s={};Array.prototype.forEach.call(document.querySelectorAll('input.'+cls+':checked'),function(i){s[i.value]=1});return s}
+function render(){
+  var st=$('#state').value,t=terms(),org=checked('org'),uni=checked('uni'),cats=checked('cat'),uks=checked('ukey'),sort=$('#sort').value;
+  var rows=ALL.filter(function(e){return org[e.origin]&&uni[e.union_status]&&cats[e.category]&&uks[e.uk]&&(!st||(e.states||[]).indexOf(st)>-1)&&t.every(function(w){return e.hay.indexOf(w)>-1})});
+  rows.sort(function(a,b){
+    if(sort==='cat')return a.category.localeCompare(b.category)||a.name.localeCompare(b.name);
+    if(sort==='union')return (a.union_status==='union'?0:1)-(b.union_status==='union'?0:1)||a.name.localeCompare(b.name);
+    return a.name.localeCompare(b.name)});
+  $('#count').textContent=rows.length+' of '+ALL.length+(t.length?' for "'+t.join(' ')+'"':'');
+  shown=rows;limit=PAGE;paint();
+}
+var PAGE=40,shown=[],limit=PAGE;
+function paint(){
+  var list=$('#list');
+  if(!shown.length){list.innerHTML='<div class="empty">Nothing here. Try fewer words, or turn on more boxes in the filters on the left.</div>';return}
+  var html=shown.slice(0,limit).map(card).join('');
+  if(shown.length>limit)html+='<button type="button" class="more" id="more">Show '+Math.min(PAGE,shown.length-limit)+' more of '+(shown.length-limit)+'</button>';
+  list.innerHTML=html;
+  var m=document.getElementById('more');if(m)m.onclick=function(){limit+=PAGE;paint()};
+}
+function card(e){
+  var srcs=(e.sources||[]).map(function(s){return '<a href="'+esc(s)+'" target="_blank" rel="noopener">'+esc(s.replace(/^https?:\/\/(www\.)?/,'').slice(0,60))+'</a>'}).join('');
+  var oc=OCLS[e.origin]||"o-biz";var cc="c-"+oc.slice(2);
+  var unionLine=e.union_status==='union'?'<span><b>Union:</b> '+esc(e.union)+' <span class="pill u-union" title="How solid the union claim is">'+EVLAB[e.evidence]+'</span></span>':(e.union_status==='unclear'?'<span><b>Union:</b> '+esc(e.union||'not confirmed')+' (unconfirmed)</span>':'<span><b>Union:</b> none</span>');
+  return '<article class="card "+cc+"">'+
+    '<div><div class="cat">'+esc(e.category)+(e.subcategory?' · '+esc(e.subcategory):'')+'</div><h3>'+esc(e.name)+'</h3></div>'+
+    '<div class="right"><div class="badges"><span class="pill '+oc+'">'+esc(e.origin)+'</span><span class="pill '+UCLS[e.union_status]+'">'+ULAB[e.union_status]+'</span></div>'+(e.buy_url?'<a class="buy" href="'+esc(e.buy_url)+'" target="_blank" rel="noopener">Where to buy</a>':'')+'</div>'+
+    '<p class="what">'+esc(e.what)+'</p>'+
+    '<div class="meta">'+unionLine+'<span><b>Country:</b> '+esc(e.country||'USA')+'</span>'+((e.states||[]).length?'<span><b>State:</b> '+esc(e.states.join(', '))+'</span>':'')+'</div>'+
+    (e.caveats?'<div class="cav"><b>Fine print:</b> '+esc(e.caveats)+'</div>':'')+
+    (srcs?'<div class="src"><details><summary>'+(e.sources.length)+(e.sources.length>1?' sources':' source')+'</summary>'+srcs+'</details></div>':'')+
+  '</article>';
+}
+var deb;$('#q').addEventListener('input',function(){clearTimeout(deb);deb=setTimeout(render,120)});
+$('#clear').onclick=function(){$('#q').value='';render();$('#q').focus()};
+Array.prototype.forEach.call(document.querySelectorAll('.hint button'),function(b){b.onclick=function(){$('#q').value=b.getAttribute('data-q');render()}});
+document.addEventListener('change',function(ev){if(ev.target.matches('input.org,input.uni,input.cat,input.ukey,#sort,#state'))render()});
+Array.prototype.forEach.call(document.querySelectorAll('.fgroup h2'),function(h){h.onclick=function(){var boxes=h.parentElement.querySelectorAll('input[type=checkbox]');var on=Array.prototype.some.call(boxes,function(b){return !b.checked});Array.prototype.forEach.call(boxes,function(b){b.checked=on});render()}});
+render();
+})();
+</script>

@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Made in USA Index",
+  "version": "0.1.0",
+  "description": "Shows whether a product is made in the USA and whether the shop is union, right on the product page. Sources included.",
+  "permissions": ["storage", "alarms"],
+  "host_permissions": [
+    "https://www.amazon.com/*",
+    "https://www.homedepot.com/*",
+    "https://www.lowes.com/*",
+    "https://www.grainger.com/*",
+    "https://www.zoro.com/*",
+    "https://www.fastenal.com/*",
+    "https://www.walmart.com/*",
+    "https://www.menards.com/*",
+    "https://www.northerntool.com/*",
+    "https://www.acmetools.com/*",
+    "https://www.ebay.com/*"
+  ],
+  "background": { "service_worker": "src/background.js" },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.com/*",
+        "https://www.homedepot.com/*",
+        "https://www.lowes.com/*",
+        "https://www.grainger.com/*",
+        "https://www.zoro.com/*",
+        "https://www.fastenal.com/*",
+        "https://www.walmart.com/*",
+        "https://www.menards.com/*",
+        "https://www.northerntool.com/*",
+        "https://www.acmetools.com/*",
+        "https://www.ebay.com/*"
+      ],
+      "js": ["src/sites.js", "src/match.js", "src/content.js"],
+      "css": ["src/badge.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": { "default_popup": "src/popup.html", "default_title": "Made in USA Index" },
+  "icons": { "16": "icons/icon16.png", "48": "icons/icon48.png", "128": "icons/icon128.png" },
+  "web_accessible_resources": [{ "resources": ["data/index.json"], "matches": ["<all_urls>"] }]
+}
