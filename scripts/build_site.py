@@ -28,4 +28,10 @@ root=__import__('pathlib').Path(__file__).resolve().parent.parent
 raw=(root/'data'/'index.json').read_text(encoding='utf-8')
 (root/'site'/'index.json').write_text(raw,encoding='utf-8')
 (root/'extension'/'data'/'index.json').write_text(raw,encoding='utf-8')
-print(len(body)//1024,'KB artifact;',len(head+body)//1024,'KB standalone; index.json synced to site/ and extension/data/')
+# shareable zip of the extension, served from the site
+import zipfile
+zp=root/'site'/'made-in-usa-extension.zip'
+with zipfile.ZipFile(zp,'w',zipfile.ZIP_DEFLATED) as z:
+    for f in sorted((root/'extension').rglob('*')):
+        if f.is_file(): z.write(f,'extension/'+f.relative_to(root/'extension').as_posix())
+print(len(body)//1024,'KB artifact;',len(head+body)//1024,'KB standalone; index.json synced; extension zip',zp.stat().st_size//1024,'KB')

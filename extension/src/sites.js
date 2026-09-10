@@ -74,6 +74,20 @@ const MIUSA_RESULTS = {
   }
 };
 
+// Any other shopping site. Dumb generic selectors: the page title, a brand or
+// manufacturer spec row if there is one, a country of origin row if there is
+// one. The badge only renders when something matches or an origin row exists,
+// so ordinary pages stay untouched.
+const MIUSA_GENERIC = {
+  isProduct: () => !!document.querySelector('h1'),
+  title: () => text('h1'),
+  brand: () => specRow(/^brand$|^manufacturer$|^brand name$/i),
+  origin: () => specRow(/country of origin|country\/region of manufacture|made in|manufactured in/i),
+  anchor: () => document.querySelector('[class*="price" i], [data-testid*="price" i], [itemprop="price"], h1')
+};
+
+function miusaSiteFor(host) { return MIUSA_SITES[host] || MIUSA_GENERIC; }
+
 function text(sel) { const el = document.querySelector(sel); return el ? el.textContent.replace(/\s+/g, ' ').trim() : ''; }
 function tileText(tile, sel) { const el = tile.querySelector(sel); return el ? el.textContent.replace(/\s+/g, ' ').trim() : ''; }
 

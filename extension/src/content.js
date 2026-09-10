@@ -1,6 +1,6 @@
 (async function () {
-  const site = MIUSA_SITES[location.hostname];
-  if (!site || !site.isProduct()) return;
+  const site = miusaSiteFor(location.hostname);
+  if (!site.isProduct()) return;
   const log = (...a) => console.log('[MIUSA]', ...a);
 
   const { items } = await chrome.runtime.sendMessage({ type: 'getIndex' });
@@ -38,6 +38,12 @@
     } else if (/\b(usa|united states|u\.s\.a)\b/i.test(ctx.origin)) {
       box.classList.add('miusa-grey');
       box.innerHTML = `<span class="miusa-bug">?</span><span class="miusa-text">Site lists USA origin. Not in our index yet.</span><span class="miusa-more">report</span>`;
+      box.querySelector('.miusa-more').onclick = () => report(ctx);
+    } else if (ctx.origin && ctx.origin.length < 40) {
+      // The page names some other country. Say so plainly even though the
+      // brand is not in our index yet.
+      box.classList.add('miusa-no');
+      box.innerHTML = `<span class="miusa-bug">!</span><span class="miusa-text">Site says made in ${esc(ctx.origin)}. Not in our index yet.</span><span class="miusa-more">report</span>`;
       box.querySelector('.miusa-more').onclick = () => report(ctx);
     } else return;
     anchor.insertAdjacentElement('afterend', box);

@@ -16,6 +16,8 @@ amazon.com, homedepot.com, lowes.com, grainger.com, zoro.com, fastenal.com, walm
 
 Search-result pages come later (v1.1). Product detail pages first.
 
+As of v0.3 the extension runs on every http and https page with dumb generic selectors (h1 title, brand and country of origin spec rows). The named sites above keep their tuned selectors. On unknown sites the badge only appears when the index matches or the page itself names a country of origin, so ordinary pages stay untouched. Search result chips stay site-specific.
+
 ## How matching works
 
 1. Content script reads the product title, brand field, and "country of origin" spec row if the site shows one. No screenshots. The text is already in the DOM.
