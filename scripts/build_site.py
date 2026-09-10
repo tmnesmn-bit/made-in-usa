@@ -17,6 +17,10 @@ head='''<!DOCTYPE html>
 <meta property="og:description" content="What is still made in this country, who makes it, and whether the shop is union. Sources on every entry.">
 <meta property="og:type" content="website">
 <link rel="canonical" href="https://tmnesmn-bit.github.io/made-in-usa/">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icon192.png">
+<link rel="apple-touch-icon" href="icon192.png">
+<meta name="theme-color" content="#12203A">
 <script type="application/ld+json">'''+json.dumps(ld,separators=(',',':')).replace('</','<\\/')+'''</script>
 <style>img{max-width:100%}[hidden]{display:none!important}</style>
 </head>
