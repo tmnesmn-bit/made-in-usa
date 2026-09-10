@@ -1,5 +1,5 @@
 .miusa-badge{display:inline-flex;align-items:center;gap:8px;margin:8px 0;padding:6px 10px;border-radius:5px;border:1px solid;font:14px/1.3 -apple-system,"Segoe UI",Roboto,sans-serif;max-width:560px;z-index:2147483000;position:relative}
-.miusa-badge .miusa-bug{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;border:2px solid currentColor;font-weight:700;font-size:9px;letter-spacing:.05em;flex:none}
+.miusa-badge .miusa-bug{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;width:34px;height:34px;padding:0;margin:0;border-radius:50%;border:2px solid currentColor;font-weight:700;font-size:9px;line-height:1;letter-spacing:.05em;text-indent:.05em;text-align:center;flex:none}
 .miusa-badge .miusa-more{margin-left:auto;text-decoration:underline;cursor:pointer;font-size:13px;opacity:.85}
 .miusa-usa{background:#E3F3EA;color:#155C3A;border-color:#1E7B4F}
 .miusa-part{background:#FBF1D6;color:#6E4A05;border-color:#B7791F}
