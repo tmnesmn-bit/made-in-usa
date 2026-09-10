@@ -1,3 +1,4 @@
 site/artifact.html
 *.zip
 .DS_Store
+!site/made-in-usa-extension.zip
